@@ -6,6 +6,7 @@ const initialProducts = [
   { id: '1', name: 'Produto 1', quantity: 0 },
   { id: '2', name: 'Produto 2', quantity: 0 },
   { id: '3', name: 'Produto 3', quantity: 0 },
+  { id: '4', name: 'Produto 4', quantity: 0 },
 ];
 
 export default function App() {
